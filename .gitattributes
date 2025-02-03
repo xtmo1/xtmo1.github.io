@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Define attributes for paths in your repository
+*.html text
+*.css text
+*.js text
